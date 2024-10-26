@@ -1,0 +1,24 @@
+
+.form{ 
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.form label:first-child{
+    display: flex;
+    flex-direction: column;
+
+}
+
+#delay-field{
+    height: 30px;
+    border-radius: 4px;
+
+}
+.form button{ 
+    height: 20px;
+}
+
+
+
